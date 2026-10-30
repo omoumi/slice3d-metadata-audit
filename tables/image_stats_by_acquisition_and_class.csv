@@ -1,0 +1,15 @@
+acquisition,label,border_mean_r,border_mean_g,border_mean_b,border_lum_std,dark_corner_share,center_to_border_lum,mean_r,mean_g,mean_b,lum_std,bytes_per_pixel
+ACEMID MIA,benign,176.879,128.059,98.203,10.444,0.0,0.969,176.295,126.829,97.134,11.552,0.169
+ACEMID MIA,malignant,176.67,122.759,96.286,11.251,0.0,0.906,178.121,118.053,90.909,15.836,0.169
+"Department of Dermatology, Hospital Clínic de Barcelona",benign,181.646,131.988,101.69,11.323,0.0,0.968,180.803,130.858,100.619,12.579,0.148
+"Department of Dermatology, Hospital Clínic de Barcelona",malignant,177.664,131.36,100.846,9.935,0.0,0.863,171.235,119.39,92.888,18.895,0.151
+"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",benign,177.575,134.605,108.343,10.151,0.0,0.957,176.127,131.983,105.767,12.748,0.14
+"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",malignant,189.814,136.376,103.963,23.691,0.0,0.612,169.644,114.439,87.459,29.785,0.157
+"Frazer Institute, The University of Queensland, Dermatology Research Centre",benign,173.572,125.708,99.002,10.303,0.0,0.972,173.132,124.698,98.147,11.092,0.162
+"Frazer Institute, The University of Queensland, Dermatology Research Centre",malignant,161.224,111.001,87.673,9.085,0.0,0.937,159.346,108.412,84.843,11.77,0.166
+Memorial Sloan Kettering Cancer Center,benign,182.691,141.179,123.153,8.962,0.0,0.967,181.43,139.571,121.669,10.673,0.171
+Memorial Sloan Kettering Cancer Center,malignant,181.075,137.374,123.359,9.977,0.0,0.918,176.346,132.12,118.555,14.383,0.183
+University Hospital of Basel,benign,181.256,136.587,103.628,9.551,0.0,0.964,180.286,135.052,102.185,11.411,0.159
+University Hospital of Basel,malignant,162.698,107.942,96.324,11.629,0.0,0.892,161.338,100.308,83.659,17.081,0.155
+"ViDIR Group, Department of Dermatology, Medical University of Vienna",benign,183.146,134.556,106.644,10.052,0.0,0.965,182.036,132.977,104.909,11.629,0.144
+"ViDIR Group, Department of Dermatology, Medical University of Vienna",malignant,191.547,138.28,107.321,11.318,0.0,0.893,187.245,135.399,104.939,15.188,0.156

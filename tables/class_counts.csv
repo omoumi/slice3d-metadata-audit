@@ -1,0 +1,3 @@
+label,images,groups,patients,lesions
+benign,400666,1041,1041,400666
+malignant,393,259,259,393

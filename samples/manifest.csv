@@ -1,0 +1,7 @@
+file,image_id,label,license,attribution,caption
+samples/benign_ISIC_5254477.jpg,ISIC_5254477,benign,CC-0,ACEMID MIA,60 y | male | lower extremity
+samples/benign_ISIC_6245664.jpg,ISIC_6245664,benign,CC-BY,"Frazer Institute, The University of Queensland, Dermatology Research Centre",35 y | female | lower extremity
+samples/benign_ISIC_2791090.jpg,ISIC_2791090,benign,CC-BY,Memorial Sloan Kettering Cancer Center,55 y | male | posterior torso
+samples/malignant_ISIC_2235682.jpg,ISIC_2235682,malignant,CC-BY,"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",70 y | male | posterior torso
+samples/malignant_ISIC_3801297.jpg,ISIC_3801297,malignant,CC-0,ACEMID MIA,60 y | male | posterior torso
+samples/malignant_ISIC_4659886.jpg,ISIC_4659886,malignant,CC-BY,"Frazer Institute, The University of Queensland, Dermatology Research Centre",60 y | male | anterior torso

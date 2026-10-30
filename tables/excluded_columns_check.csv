@@ -1,0 +1,13 @@
+,column,reason_excluded,v_corrected,p_naive
+0,attribution,acquisition (institution; used as the acquisition variable),0.014271954519577166,9.136221283651385e-17
+1,copyright_license,administrative,0.012877263986242518,1.331448556326097e-15
+2,iddx_1,label (ISIC-Dx hierarchy),0.9999987532936424,0.0
+3,iddx_2,label (ISIC-Dx hierarchy),0.999983792696115,0.0
+4,iddx_3,label (ISIC-Dx hierarchy),0.9999700786184234,0.0
+5,iddx_4,label (ISIC-Dx hierarchy),0.7845259190603942,0.0
+6,iddx_5,label (ISIC-Dx hierarchy),0.0,0.9750152711884091
+7,tbp_tile_type,acquisition (XP vs white light),0.014562444967780174,1.7541755395710757e-20
+8,tbp_lv_location,TBP device measurement of the lesion (image-derived; reference feature set),0.0315761404302704,1.5243226895842457e-76
+9,tbp_lv_location_simple,TBP device measurement of the lesion (image-derived; reference feature set),0.031001009249326417,9.957767197464211e-81
+10,tbp_lv_symm_2axis_angle,TBP device measurement of the lesion (image-derived; reference feature set),0.0015859428111821053,0.42111597386747
+11,has_lesion_tag,label leak (lesion_id present only for manually tagged lesions),0.1298107186874175,0.0

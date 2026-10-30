@@ -1,0 +1,5 @@
+field,groups_with_several_images,groups_with_conflicting_values,groups_all_missing,groups_partly_missing,missingness_is_group_level
+age_approx,1037,100,13,0,True
+clin_size_long_diam_mm,1037,1037,0,0,
+sex,1037,0,33,0,True
+anatom_site_general,1037,1020,11,24,False

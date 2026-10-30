@@ -1,0 +1,6 @@
+anatom_site_general,benign,malignant
+anterior torso,0.222,0.209
+head/neck,0.03,0.198
+lower extremity,0.261,0.186
+posterior torso,0.308,0.262
+upper extremity,0.179,0.145

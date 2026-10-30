@@ -1,0 +1,15 @@
+acquisition,label,megapixels,aspect,file_bytes
+ACEMID MIA,benign,0.016,1.0,2731.0
+ACEMID MIA,malignant,0.018,1.0,2860.0
+"Department of Dermatology, Hospital Clínic de Barcelona",benign,0.021,1.0,3115.0
+"Department of Dermatology, Hospital Clínic de Barcelona",malignant,0.021,1.0,3154.5
+"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",benign,0.022,1.0,3029.0
+"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",malignant,0.019,1.0,3446.0
+"Frazer Institute, The University of Queensland, Dermatology Research Centre",benign,0.017,1.0,2632.0
+"Frazer Institute, The University of Queensland, Dermatology Research Centre",malignant,0.015,1.0,2535.0
+Memorial Sloan Kettering Cancer Center,benign,0.016,1.0,2725.0
+Memorial Sloan Kettering Cancer Center,malignant,0.016,1.0,2780.5
+University Hospital of Basel,benign,0.016,1.0,2578.0
+University Hospital of Basel,malignant,0.017,1.0,2700.0
+"ViDIR Group, Department of Dermatology, Medical University of Vienna",benign,0.022,1.0,3145.0
+"ViDIR Group, Department of Dermatology, Medical University of Vienna",malignant,0.021,1.0,3413.0

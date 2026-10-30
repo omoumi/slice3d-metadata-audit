@@ -1,0 +1,55 @@
+,indicator,versus,v,v_corrected,p_naive,n,v_corrected_ci_low,v_corrected_ci_high
+0,miss_age_approx,label,0.00024723466138265593,0.0,0.8755823440520953,401059,0.0,0.002359933015025916
+1,miss_age_approx,acquisition,0.1021371508863806,0.10206401489007014,0.0,401059,0.04843337639926407,0.19863176351596978
+2,miss_age_approx,label_within_ACEMID MIA,,,,28665,,
+3,miss_age_approx,"label_within_Department of Dermatology, Hospital Clínic de Barcelona",0.003121462608239102,0.0005337150470774664,0.3101293480577825,105724,,
+4,miss_age_approx,"label_within_Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",,,,7976,,
+5,miss_age_approx,"label_within_Frazer Institute, The University of Queensland, Dermatology Research Centre",0.002869941690173322,0.0,0.5137654045774293,51768,,
+6,miss_age_approx,label_within_Memorial Sloan Kettering Cancer Center,,,,129068,,
+7,miss_age_approx,label_within_University Hospital of Basel,0.0006358788808503626,0.0,0.8709990815242405,65218,,
+8,miss_age_approx,"label_within_ViDIR Group, Department of Dermatology, Medical University of Vienna",,,,12640,,
+9,miss_clin_size_long_diam_mm,label,,,,401059,,
+10,miss_clin_size_long_diam_mm,acquisition,,,,401059,,
+11,miss_clin_size_long_diam_mm,label_within_ACEMID MIA,,,,28665,,
+12,miss_clin_size_long_diam_mm,"label_within_Department of Dermatology, Hospital Clínic de Barcelona",,,,105724,,
+13,miss_clin_size_long_diam_mm,"label_within_Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",,,,7976,,
+14,miss_clin_size_long_diam_mm,"label_within_Frazer Institute, The University of Queensland, Dermatology Research Centre",,,,51768,,
+15,miss_clin_size_long_diam_mm,label_within_Memorial Sloan Kettering Cancer Center,,,,129068,,
+16,miss_clin_size_long_diam_mm,label_within_University Hospital of Basel,,,,65218,,
+17,miss_clin_size_long_diam_mm,"label_within_ViDIR Group, Department of Dermatology, Medical University of Vienna",,,,12640,,
+18,miss_sex,label,0.0006134384293306021,0.0,0.6976565846482945,401059,0.0,0.0032946325579819424
+19,miss_sex,acquisition,0.29102720315326075,0.29100186200825573,0.0,401059,0.21238390245490635,0.3805255143665933
+20,miss_sex,label_within_ACEMID MIA,,,,28665,,
+21,miss_sex,"label_within_Department of Dermatology, Hospital Clínic de Barcelona",0.003830466182445155,0.0022833836150385053,0.2129536059349242,105724,,
+22,miss_sex,"label_within_Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",,,,7976,,
+23,miss_sex,"label_within_Frazer Institute, The University of Queensland, Dermatology Research Centre",0.0032404264034547174,0.0,0.46095167661744696,51768,,
+24,miss_sex,label_within_Memorial Sloan Kettering Cancer Center,,,,129068,,
+25,miss_sex,label_within_University Hospital of Basel,0.007194760389628224,0.006035868649431367,0.06615313788087465,65218,,
+26,miss_sex,"label_within_ViDIR Group, Department of Dermatology, Medical University of Vienna",,,,12640,,
+27,miss_anatom_site_general,label,0.0037792042777845996,0.0034335126946141432,0.01669573601412438,401059,0.0015107336857293856,0.005216942625343081
+28,miss_anatom_site_general,acquisition,0.13337051223236768,0.13331458066615098,0.0,401059,0.06326657567010649,0.28419195467068914
+29,miss_anatom_site_general,label_within_ACEMID MIA,,,,28665,,
+30,miss_anatom_site_general,"label_within_Department of Dermatology, Hospital Clínic de Barcelona",0.0010445550526118719,0.0,0.7341280665616985,105724,,
+31,miss_anatom_site_general,"label_within_Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",,,,7976,,
+32,miss_anatom_site_general,"label_within_Frazer Institute, The University of Queensland, Dermatology Research Centre",0.008619154227932815,0.007414415407673544,0.049869673105697634,51768,,
+33,miss_anatom_site_general,label_within_Memorial Sloan Kettering Cancer Center,0.0034882868394639764,0.0021024427335897154,0.21013178195371743,129068,,
+34,miss_anatom_site_general,label_within_University Hospital of Basel,0.002568537978294211,0.0,0.5118572739582146,65218,,
+35,miss_anatom_site_general,"label_within_ViDIR Group, Department of Dermatology, Medical University of Vienna",0.0004188967082834965,0.0,0.9624370211378928,12640,,
+36,complete,label,0.0025268292458468654,0.001972681118872546,0.10954951382625432,401059,0.0,0.004894231347943
+37,complete,acquisition,0.2820454645080844,0.28201929354670996,0.0,401059,0.2176910221178827,0.36803767035584173
+38,complete,label_within_ACEMID MIA,,,,28665,,
+39,complete,"label_within_Department of Dermatology, Hospital Clínic de Barcelona",0.0041230742194834375,0.002746112268471136,0.18004160269732117,105724,,
+40,complete,"label_within_Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",,,,7976,,
+41,complete,"label_within_Frazer Institute, The University of Queensland, Dermatology Research Centre",0.004577595124354275,0.0012794854579671823,0.29763376719597967,51768,,
+42,complete,label_within_Memorial Sloan Kettering Cancer Center,0.0034882868394639764,0.002102442733589716,0.21013178195371743,129068,,
+43,complete,label_within_University Hospital of Basel,0.005281670948204822,0.0035444061988174984,0.17739370931168147,65218,,
+44,complete,"label_within_ViDIR Group, Department of Dermatology, Medical University of Vienna",0.0004188967082834965,0.0,0.9624370211378928,12640,,
+45,complete_core,label,0.0025268292458468654,0.001972681118872546,0.10954951382625432,401059,0.0,0.004894231347943
+46,complete_core,acquisition,0.2820454645080844,0.28201929354670996,0.0,401059,0.2176910221178827,0.36803767035584173
+47,complete_core,label_within_ACEMID MIA,,,,28665,,
+48,complete_core,"label_within_Department of Dermatology, Hospital Clínic de Barcelona",0.0041230742194834375,0.002746112268471136,0.18004160269732117,105724,,
+49,complete_core,"label_within_Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",,,,7976,,
+50,complete_core,"label_within_Frazer Institute, The University of Queensland, Dermatology Research Centre",0.004577595124354275,0.0012794854579671823,0.29763376719597967,51768,,
+51,complete_core,label_within_Memorial Sloan Kettering Cancer Center,0.0034882868394639764,0.002102442733589716,0.21013178195371743,129068,,
+52,complete_core,label_within_University Hospital of Basel,0.005281670948204822,0.0035444061988174984,0.17739370931168147,65218,,
+53,complete_core,"label_within_ViDIR Group, Department of Dermatology, Medical University of Vienna",0.0004188967082834965,0.0,0.9624370211378928,12640,,

@@ -1,0 +1,3 @@
+label,all,complete,incomplete,complete_core
+benign,0.999,0.999,0.9994,0.999
+malignant,0.001,0.001,0.0006,0.001

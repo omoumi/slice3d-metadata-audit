@@ -1,0 +1,13 @@
+,missing_field,other_field,n_classes_used,v_corrected_within_label
+0,age_approx,clin_size_long_diam_mm,2,0.0068931186121768346
+1,age_approx,sex,2,0.09120182200909326
+2,age_approx,anatom_site_general,2,0.01602398079184939
+3,clin_size_long_diam_mm,age_approx,0,
+4,clin_size_long_diam_mm,sex,0,
+5,clin_size_long_diam_mm,anatom_site_general,0,
+6,sex,age_approx,2,0.08303391534375826
+7,sex,clin_size_long_diam_mm,2,0.010500868839783352
+8,sex,anatom_site_general,2,0.013239445403022108
+9,anatom_site_general,age_approx,1,0.06927528778735924
+10,anatom_site_general,clin_size_long_diam_mm,1,0.0018124108883164794
+11,anatom_site_general,sex,1,0.02536707279305457

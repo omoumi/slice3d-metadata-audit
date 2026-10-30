@@ -1,0 +1,3 @@
+sex,benign,malignant
+female,0.318,0.285
+male,0.682,0.715

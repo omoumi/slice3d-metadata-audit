@@ -1,0 +1,5 @@
+,all,complete,complete,complete,complete,complete_core,complete_core,complete_core,complete_core
+,images,images,groups,patients,lesions,images,groups,patients,lesions
+label,,,,,,,,,
+benign,400666,381533,988,988,381533,381533,988,988,381533
+malignant,393,381,249,249,381,381,249,249,381
